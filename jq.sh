@@ -1,2 +1,2 @@
-import "static-binaries@0.0.6"
+import "static-binaries@1.0.0"
 static_binaries jq
