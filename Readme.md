@@ -1,6 +1,7 @@
 # jq
 
-Imports a static `jq` binary to your `$PATH`.
+Imports a [static](https://import.pw/static-binaries)
+[`jq`](https://stedolan.github.io/jq/) binary to your `$PATH`.
 
 
 ## Example
