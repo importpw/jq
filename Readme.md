@@ -11,5 +11,8 @@ Imports a [static](https://import.pw/static-binaries)
 import "jq@1.0.0"
 
 which jq
+
 jq -V
+
+echo '{"foo":"bar"}' | jq -r '.foo'
 ```
